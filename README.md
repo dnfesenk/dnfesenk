@@ -10,7 +10,7 @@ Versatile and accomplished System Architect, Java Developer, DevOps Specialist, 
 2. Sberbank PJSC
 3. Vimpelcom PJSC (Beeline)
 4. Tinkoff Bank JSC
-5. Bank FC Otkrytie PJSC (Otkritie Bank)
+5. Bank FC Otkrytie PJSC
 6. Freedom Finance JSC
 7. SOGAZ JSC
 8. MTS PJSC
