@@ -17,8 +17,10 @@ Versatile and accomplished System Architect, Java Developer, DevOps Specialist, 
 
 ## Noteworthy Projects:
 
-### 2021:
+### 2023:
 1. Monitoring as Code Service _(Luxoft Professional LLC)_
+
+### 2021:
 2. Print Form Template Builder Service and Document Generation Service _(Sberbank Leasing JSC)_
 3. Unified IDP Authentication and Authorization System _(Vimpelcom PJSC)_
 4. High-load Application Storage _(Tinkoff Bank JSC)_
