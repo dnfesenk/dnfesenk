@@ -25,7 +25,7 @@ Versatile and accomplished System Architect, Java Developer, DevOps Specialist, 
 
 ### 2020:
 5. Trading Terminal _(Freedom Finance JSC)_
-6. Credit Agreements DBO _(Bank FC Opening PJSC)_
+6. Credit Agreements DBO _(Bank FC Otkrytie PJSC)_
 
 ### 2019:
 7. DBO Credits _(VTB Bank PJSC)_
