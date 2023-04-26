@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Fesenko</h1>
 <h3 align="center">I am a software architect and developer with 16 years of IT experience, specializing in Java and Kotlin, and have worked on projects for international banks and telecommunications companies, with the ability to serve as a DevOps engineer.</h3>
 
-- 🔭 I’m currently working on [html2openxml Java library](https://github.com/dnfesenk/html2openxml)
+- 🔭 I’m currently working on [html2openxml](https://github.com/dnfesenk/html2openxml) Java library
 
 - 🌱 I’m currently learning **Java high-frequency trading (HFT) algorithms and related frameworks**
 
